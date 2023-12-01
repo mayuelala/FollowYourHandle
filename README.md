@@ -1,4 +1,7 @@
-### MagicStick🪄: Controllable Video Editing via Control Handle Transformations
+### 
+: 
+<div align="center">
+<h2><font color="red"> MagicStick🪄</font>: Controllable Video Editing via Control Handle Transformations</h2>
 
 [Yue Ma](https://mayuelala.github.io/), [Xiaodong Cun](http://vinthony.github.io/), [Yingqing He](https://github.com/YingqingHe), [Chenyang Qi](https://chenyangqiqi.github.io/), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=zh-CN) and [Qifeng Chen](https://cqf.io)
 
