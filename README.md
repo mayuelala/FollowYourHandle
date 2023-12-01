@@ -334,7 +334,7 @@ We will refine and optimize the above demos in the following days. -->
 
 
 ## 📍 Citation 
-
+If you think this project is helpful, please feel free to leave a star⭐️⭐️⭐️ and cite our paper:
 ```
 @article{ma2023magicstick,
       title={MagicStick: Controllable Video Editing via Control Handle Transformations}, 
