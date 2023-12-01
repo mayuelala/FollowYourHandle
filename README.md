@@ -3,10 +3,7 @@
 [Yue Ma](https://mayuelala.github.io/), [Xiaodong Cun](http://vinthony.github.io/), [Yingqing He](https://github.com/YingqingHe), [Chenyang Qi](https://chenyangqiqi.github.io/), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=zh-CN) and [Qifeng Chen](https://cqf.io)
 
 <a href='https://arxiv.org/abs/2303.09535'><img src='https://img.shields.io/badge/ArXiv-2303.09535-red'></a> 
-<a href='https://magic-stick-edit.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChenyangQiQi/FateZero/blob/main/colab_fatezero.ipynb)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/chenyangqi/FateZero) -->
-[![GitHub](https://img.shields.io/github/stars/mayuelala/MagicStick?style=social)](https://github.com/mayuelala/MagicStick)
+<a href='https://magic-stick-edit.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  [![GitHub](https://img.shields.io/github/stars/mayuelala/MagicStick?style=social)](https://github.com/mayuelala/MagicStick)
 
 
 <table class="center">
