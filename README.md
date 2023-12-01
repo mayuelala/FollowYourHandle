@@ -24,7 +24,7 @@
 
 
 ## 🎏 Abstract
-<b>TL; DR: <font color="red">MagicStick</font> is the first unified framework to modify video properties(e.g., shape, size, location, motion) leveraging the keyframe transformations on the extracted internal control signals.</b>
+<b>TL; DR: `MagicStick` is the first unified framework to modify video properties(e.g., shape, size, location, motion) leveraging the keyframe transformations on the extracted internal control signals.</b>
 
 <details><summary>CLICK for the full abstract</summary>
             Text-based video editing has recently attracted considerable interest in changing the style or replacing the objects with
