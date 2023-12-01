@@ -1,5 +1,3 @@
-### 
-: 
 <div align="center">
 <h2><font color="red"> MagicStick🪄</font>: Controllable Video Editing via Control Handle Transformations</h2>
 
