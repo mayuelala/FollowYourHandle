@@ -19,15 +19,6 @@
 </tr>
 </table >
 
-## 📀 Demo Video
-
-
-
-
-https://github.com/mayuelala/MagicStick/assets/38033523/20f689e1-7c38-4e77-b2c0-8e75b7601cd9
-
-
-
 
 ## 🎏 Abstract
 <b>TL; DR: `MagicStick` is the first unified framework to modify video properties(e.g., shape, size, location, motion) leveraging the keyframe transformations on the extracted internal control signals.</b>
@@ -339,6 +330,12 @@ We also provide a Colab demo, which supports 10 DDIM steps.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChenyangQiQi/FateZero/blob/main/colab_fatezero.ipynb)
 You may launch the colab as a jupyter notebook on your local machine.
 We will refine and optimize the above demos in the following days. -->
+
+## 📀 Demo Video
+
+
+https://github.com/mayuelala/MagicStick/assets/38033523/20f689e1-7c38-4e77-b2c0-8e75b7601cd9
+
 
 
 
