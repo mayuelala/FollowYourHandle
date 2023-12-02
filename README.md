@@ -13,13 +13,20 @@
   <td><img src="docs/gif_results/teaser/cup.gif"></td>
   <td><img src="docs/gif_results/teaser/rabbti.gif"></td>
   <tr>
-  <td width=25% style="text-align:center;">"silver jeep ➜ posche car"</td>
-  <td width=25% style="text-align:center;">"+ Van Gogh style"</td>
-  <td width=25% style="text-align:center;">"squirrel,Carrot ➜ rabbit,eggplant"</td>
+  <td width=25% style="text-align:center;">"Zoom in the bird"</td>
+  <td width=25% style="text-align:center;">"Move the cup"</td>
+  <td width=25% style="text-align:center;">"Zoom in the rabbit & rabbit ➜ tiger"</td>
 </tr>
 </table >
 
 ## 📀 Demo Video
+
+
+
+
+https://github.com/mayuelala/MagicStick/assets/38033523/20f689e1-7c38-4e77-b2c0-8e75b7601cd9
+
+
 
 
 ## 🎏 Abstract
