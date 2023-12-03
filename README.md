@@ -1,5 +1,5 @@
 <div align="center">
-<img src="docs/img/magicstick_logo.png" alt="Your Image" width="600" height="126">
+<img src="docs/img/logo3.png" alt="Your Image" width="807" height="126">
 <h2><font color="red"> MagicStick🪄</font>: Controllable Video Editing via Control Handle Transformations</h2>
 
 
