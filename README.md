@@ -11,11 +11,11 @@
 
 <table class="center">
   <td><img src="docs/gif_results/teaser/ocean_bird.gif"></td>
-  <td><img src="docs/gif_results/teaser/cup.gif"></td>
+  <td><img src="docs/gif_results/teaser/parrot.gif"></td>
   <td><img src="docs/gif_results/teaser/rabbti.gif"></td>
   <tr>
   <td width=25% style="text-align:center;">"Zoom in the bird"</td>
-  <td width=25% style="text-align:center;">"Move the cup"</td>
+  <td width=25% style="text-align:center;">"Move the parrot"</td>
   <td width=25% style="text-align:center;">"Zoom in the rabbit & rabbit ➜ tiger"</td>
 </tr>
 </table >
@@ -249,7 +249,7 @@ Please check our [Project Page](https://magic-stick-edit.github.io/) for mp4 fil
 
 <tr>
   <td><img src="docs/gif_results/object_size_editing/mountain111.gif"></td>
-  <td><img src="docs/gif_results/object_size_editing/panda.gif"></td>
+  <td><img src="docs/gif_results/object_size_editing/swan2small.gif"></td>
 
 </tr>
 <tr>
