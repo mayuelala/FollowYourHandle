@@ -5,7 +5,7 @@
 
 [Yue Ma](https://mayuelala.github.io/), [Xiaodong Cun](http://vinthony.github.io/), [Yingqing He](https://github.com/YingqingHe), [Chenyang Qi](https://chenyangqiqi.github.io/), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=zh-CN) and [Qifeng Chen](https://cqf.io)
 
-<a href='https://arxiv.org/abs/2312.03047'><img src='https://img.shields.io/badge/ArXiv-2303.09535-red'></a> 
+<a href='https://arxiv.org/abs/2312.03047'><img src='https://img.shields.io/badge/ArXiv-2312.03047-red'></a> 
 <a href='https://magic-stick-edit.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  [![GitHub](https://img.shields.io/github/stars/mayuelala/MagicStick?style=social)](https://github.com/mayuelala/MagicStick)
 </div>
 
