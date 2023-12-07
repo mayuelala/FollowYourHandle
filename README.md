@@ -347,7 +347,7 @@ If you think this project is helpful, please feel free to leave a star⭐️⭐�
       title={MagicStick: Controllable Video Editing via Control Handle Transformations}, 
       author={Ma, Yue  and Cun, Xiaodong and He, Yingqing and Qi, Chenyang and Wang, Xintao and Shan, Ying and Li, Xiu and Chen, Qifeng},
       year={2023},
-      journal={arXiv:XXXX.XXXX},
+      journal={arXiv:2312.03047},
 }
 ``` 
 
